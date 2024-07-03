@@ -1,0 +1,5 @@
+dados = list(range(2,6))
+menor = min(dados)
+maior = max(dados)
+amplitude = (menor - maior)
+print(amplitude)
